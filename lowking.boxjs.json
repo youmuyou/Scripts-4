@@ -8,6 +8,7 @@
     {
       "id": "lk.qqvip",
       "name": "QQ会员成长值签到",
+      "key": ["ignore"],
       "settings": [
         {
           "id": "lkIsEnableLogQQVip",
@@ -48,6 +49,7 @@
     {
       "id": "lk.weiboST",
       "name": "微博超话",
+      "key": ["ignore"],
       "settings": [
         {
           "id": "lkIsEnableLogWeiboST",

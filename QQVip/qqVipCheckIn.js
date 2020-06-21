@@ -29,6 +29,16 @@ https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header qq
 
 [mitm]
 hostname= proxy.vac.qq.com
+
+************************
+LOON 本地脚本配置:
+************************
+
+[Script]
+http-request https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi script-path=https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, timeout=10, tag=qq会员获取
+cron "0 0 0,1 * * *" script-path=https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员签到
+
+mitm= proxy.vac.qq.com
 */
 const isEnableLog = true
 const isEnableNotifyForGetCookie = false

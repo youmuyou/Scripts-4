@@ -1,0 +1,36 @@
+{
+  "id": "lowking.app.sub",
+  "name": "lowking应用订阅",
+  "author": "@lowking",
+  "icon": "https://avatars0.githubusercontent.com/u/33308659?s=460&u=9223074586cb14f2ae7ee0953515f8781ded8be9&v=4",
+  "repo": "https://github.com/lowking/Scripts/",
+  "apps": [
+    {
+      "id": "lk.qqvip",
+      "name": "QQ会员成长值签到",
+      "keys": [
+        "lkQQSignHeaderKey"
+      ],
+      "author": "@lowking",
+      "repo": "https://github.com/lowking/Scripts/blob/master/QQVip/qqVipCheckIn.js",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/01.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/01.png"
+      ]
+    },
+    {
+      "id": "lk.weiboST",
+      "name": "微博超话",
+      "keys": [
+        "lkWeiboSTSignHeaderKey",
+        "lkUserFollowSTKey"
+      ],
+      "author": "@lowking",
+      "repo": "https://github.com/lowking/Scripts/blob/master/weibo/weiboST.js",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/weibo.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/weibo.png"
+      ]
+    }
+  ]
+}

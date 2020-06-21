@@ -8,7 +8,7 @@
     {
       "id": "lk.qqvip",
       "name": "QQ会员成长值签到",
-      "keys": ["ignore"],
+      "keys": ["lkQQSignHeaderKey"],
       "settings": [
         {
           "id": "lkIsEnableLogQQVip",
@@ -49,7 +49,7 @@
     {
       "id": "lk.weiboST",
       "name": "微博超话",
-      "keys": ["ignore"],
+      "keys": ["lkWeiboSTSignHeaderKey", "lkUserFollowSTKey"],
       "settings": [
         {
           "id": "lkIsEnableLogWeiboST",

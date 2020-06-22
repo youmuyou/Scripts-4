@@ -37,6 +37,13 @@
           "val": "",
           "type": "text",
           "desc": "Cookie"
+        },
+        {
+          "id": "lkIsEnableGetCookieQQVIP",
+          "name": "开启/关闭获取Cookie",
+          "val": true,
+          "type": "boolean",
+          "desc": "默认开启"
         }
       ],
       "author": "@lowking",

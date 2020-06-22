@@ -85,6 +85,13 @@
           "val": "",
           "type": "text",
           "desc": "需要签到的超话列表"
+        },
+        {
+          "id": "lkIsEnableGetCookieWeiboST",
+          "name": "开启/关闭获取Cookie",
+          "val": true,
+          "type": "boolean",
+          "desc": "默认开启"
         }
       ],
       "author": "@lowking",

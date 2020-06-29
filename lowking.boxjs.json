@@ -118,6 +118,15 @@
     {
       "id": "lk.wifi.assistant",
       "name": "Wi-Fi助手（自用）",
+      "settings": [
+        {
+          "id": "lkWifiSsids",
+          "name": "连接这些SSID直连模式",
+          "val": "",
+          "type": "text",
+          "desc": "填写SSID（数组）"
+        }
+      ],
       "keys": ["lkWifiSsids"],
       "author": "@lowking",
       "repo": "https://github.com/lowking/Scripts",

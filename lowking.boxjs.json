@@ -117,7 +117,7 @@
     },
     {
       "id": "htt",
-      "name": "回头条",
+      "name": "惠头条",
       "keys": ["htt_dongfangnameA", "htt_signurlcknameA", "htt_signbdnameA", "htt_videonameA", "htt_smvideonameA"],
       "author": "@iamxiaoyuge",
       "repo": "https://github.com/iamxiaoyuge/Pixiewool/blob/master/Multi-local/cy/htt/htt_task.js",

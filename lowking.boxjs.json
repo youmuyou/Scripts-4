@@ -116,6 +116,17 @@
       ]
     },
     {
+      "id": "lk.wifi.assistant",
+      "name": "Wi-Fi助手（自用）",
+      "keys": ["lkWifiSsids"],
+      "author": "@lowking",
+      "repo": "https://github.com/lowking/Scripts",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/box.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/box.png"
+      ]
+    },
+    {
       "id": "htt",
       "name": "惠头条",
       "keys": ["htt_dongfangnameA", "htt_signurlcknameA", "htt_signbdnameA", "htt_videonameA", "htt_smvideonameA"],

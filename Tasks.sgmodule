@@ -45,5 +45,5 @@ qq会员-cookie = type=http-request,pattern=https:\/\/proxy.vac.qq.com\/cgi-bin\
 
 微博超话-cookie = type=http-request,pattern=https:\/\/weibo\.com\/p\/aj\/general\/button\?ajwvr=6&api=http:\/\/i\.huati\.weibo\.com\/aj\/super\/checkin,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/weibo/weiboSTCookie.js
 
-[mitm]
+[MITM]
 hostname = %APPEND% proxy.vac.qq.com, weibo.com

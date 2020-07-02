@@ -160,6 +160,7 @@
     {
       "id": "lk.subconverter",
       "name": "订阅转换器",
+      "keys": ["ignore"],
       "settings": [
         {
           "id": "lkIsEnableSubConverter",

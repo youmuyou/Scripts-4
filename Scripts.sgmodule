@@ -18,7 +18,7 @@ tb_price.js = requires-body=1,script-path=https://raw.githubusercontent.com/yich
 
 [Rewrite]
 # 获取当前经纬度
-location = type=http-request, pattern=https://weather-data.apple.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/Location/locate.js, require-body=false
+type=http-request, pattern=https://weather-data.apple.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/Location/locate.js, require-body=false
 
 [MITM]
 hostname = %APPEND% api.m.jd.com, trade-acs.m.taobao.com, weather-data.apple.com
